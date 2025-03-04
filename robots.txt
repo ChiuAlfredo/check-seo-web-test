@@ -1,5 +1,5 @@
-# START nuxt-simple-robots (indexing disabled)
+# START nuxt-robots (indexable)
 User-agent: *
-Disallow: /
 
-# END nuxt-simple-robots
+Sitemap: https://www.check-seo.com.tw/sitemap.xml
+# END nuxt-robots
