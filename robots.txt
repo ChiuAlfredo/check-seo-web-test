@@ -1,5 +1,0 @@
-# START nuxt-robots (indexable)
-User-agent: *
-
-Sitemap: https://www.check-seo.com.tw/sitemap.xml
-# END nuxt-robots
