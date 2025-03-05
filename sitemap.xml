@@ -1,55 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/check-seo-web-test/__sitemap__/style.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test</loc>
+        <loc>https://www.check-seo.com.tw/</loc>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/assets/首頁背景.Bi2vFeem.jpg</image:loc>
+        </image:image>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/_services</loc>
+        <loc>https://www.check-seo.com.tw/about</loc>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/assets/背景.DX6vF-oF.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/assets/我們的故事_圖.Dd69Ehpc.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/assets/我們的服務承諾_圖.es5KxoOU.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/assets/背景.p75AJvV-.png</image:loc>
+        </image:image>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/about</loc>
+        <loc>https://www.check-seo.com.tw/blog</loc>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/img/seo-guide-for-beginner/google-search.png</image:loc>
+        </image:image>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/blog</loc>
+        <loc>https://www.check-seo.com.tw/contact</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/contact</loc>
+        <loc>https://www.check-seo.com.tw/customer-example</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/customer-example</loc>
+        <loc>https://www.check-seo.com.tw/blog/seo-guide-for-beginner</loc>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/img/seo-guide-for-beginner/google-search.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/img/seo-guide-for-beginner/%E7%88%AC%E8%9F%B2.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/img/seo-guide-for-beginner/%E6%B5%81%E9%87%8F%E5%B0%8D%E6%AF%94.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/img/seo-guide-for-beginner/%E8%BD%89%E6%8F%9B%E7%8E%87.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/img/seo-guide-for-beginner/seo.vs.sem.png</image:loc>
+        </image:image>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/blog/seo-guide-for-beginner</loc>
+        <loc>https://www.check-seo.com.tw/customer-example/dentist</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/customer-example/dentist</loc>
+        <loc>https://www.check-seo.com.tw/customer-example/glue-machine</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/customer-example/glue-machine</loc>
+        <loc>https://www.check-seo.com.tw/customer-example/pneu-hydro</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/customer-example/pneu-hydro.md</loc>
+        <loc>https://www.check-seo.com.tw/customer-example/pneu-hydro.md</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/customer-example/stainless-steel</loc>
+        <loc>https://www.check-seo.com.tw/customer-example/stainless-steel</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/customer-example/television</loc>
+        <loc>https://www.check-seo.com.tw/customer-example/television</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/customer-example/water-machine</loc>
+        <loc>https://www.check-seo.com.tw/customer-example/water-machine</loc>
     </url>
     <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/services/digital-marketing</loc>
-    </url>
-    <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/services/seo</loc>
-    </url>
-    <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/services/system-integration</loc>
-    </url>
-    <url>
-        <loc>https://www.check-seo.com.tw/check-seo-web-test/services/web-development</loc>
+        <loc>https://www.check-seo.com.tw/services/seo</loc>
+        <image:image>
+            <image:loc>https://www.check-seo.com.tw/assets/背景.p75AJvV-.png</image:loc>
+        </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.6 at 2025-03-05T01:47:39.798Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.6 at 2025-03-05T02:11:25.047Z -->
